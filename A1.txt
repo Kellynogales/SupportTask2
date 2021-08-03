@@ -1,0 +1,1 @@
+This page contains a technical definition of CamelCase. It explains in computing terminology what C
